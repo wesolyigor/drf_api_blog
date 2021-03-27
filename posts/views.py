@@ -1,9 +1,4 @@
 from django.contrib.auth import get_user_model
-from django.shortcuts import render
-
-# Create your views here.
-from rest_framework import permissions
-from rest_framework.generics import ListCreateAPIView, RetrieveUpdateDestroyAPIView
 from rest_framework.viewsets import ModelViewSet
 
 from posts.models import Post
