@@ -4,11 +4,11 @@ Hello, this is examplary API for blog prepare with Django Rest Framework.
 
 ## Start:
 
-- git clone git@github.com:wesolyigor/drf_api_blog.git
-- Pipenv install
-- python manage.py makemigrations posts 
-- python manage.py migrate
-- python manage.py runserver
+- `git clone git@github.com:wesolyigor/drf_api_blog.git`
+- `Pipenv install`
+- `python manage.py makemigrations posts`
+- `python manage.py migrate`
+- `python manage.py runserver`
 
 ## Navigation:
 
