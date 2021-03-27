@@ -10,7 +10,7 @@ Hello, this is examplary API for blog prepare with Django Rest Framework.
 - `python manage.py migrate`
 - `python manage.py runserver`
 
-## Navigation:
+## Basic Navigation:
 
 - http://127.0.0.1:8000/api/v1/dj-rest-auth/registration/ - Registration new user
 - http://127.0.0.1:8000/api/v1/users/ - list of users, add a new author of an article
